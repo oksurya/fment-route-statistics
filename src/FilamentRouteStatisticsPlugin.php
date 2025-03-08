@@ -1,9 +1,9 @@
 <?php
 
-namespace Amendozaaguiar\FilamentRouteStatistics;
+namespace Oksurya\FilamentRouteStatistics;
 
-use Amendozaaguiar\FilamentRouteStatistics\Pages\RouteStatistics;
-use Amendozaaguiar\FilamentRouteStatistics\Widgets\RouteStatisticsOverview;
+use Oksurya\FilamentRouteStatistics\Pages\RouteStatistics;
+use Oksurya\FilamentRouteStatistics\Widgets\RouteStatisticsOverview;
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Amendozaaguiar\FilamentRouteStatistics\Pages;
+namespace Oksurya\FilamentRouteStatistics\Pages;
 
-use Amendozaaguiar\FilamentRouteStatistics\Widgets\RouteStatisticsOverview;
+use Oksurya\FilamentRouteStatistics\Widgets\RouteStatisticsOverview;
 use Bilfeldt\LaravelRouteStatistics\Models\RouteStatistic;
 use Filament\Forms\Components\DateTimePicker;
 use Filament\Pages\Page;

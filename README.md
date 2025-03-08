@@ -1,5 +1,5 @@
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/amendozaaguiar/filament-route-statistics.svg?style=flat-square)](https://packagist.org/packages/amendozaaguiar/filament-route-statistics)
-[![Total Downloads](https://img.shields.io/packagist/dt/amendozaaguiar/filament-route-statistics.svg?style=flat-square)](https://packagist.org/packages/amendozaaguiar/filament-route-statistics)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/Oksurya/filament-route-statistics.svg?style=flat-square)](https://packagist.org/packages/Oksurya/filament-route-statistics)
+[![Total Downloads](https://img.shields.io/packagist/dt/Oksurya/filament-route-statistics.svg?style=flat-square)](https://packagist.org/packages/Oksurya/filament-route-statistics)
 
 # Filament Route Statistics
 
@@ -21,7 +21,7 @@ This package provides a Filament page for [Laravel Route Statistics](https://git
 You can install the plugin via Composer:
 
 ```bash
-composer require amendozaaguiar/filament-route-statistics
+composer require Oksurya/filament-route-statistics
 ```
 
 You can publish the translations files with:
@@ -36,7 +36,7 @@ Add this plugin to a panel on `plugins()` method.
 E.g. in `app/Providers/Filament/AdminPanelProvider.php`:
 
 ```php
-use Amendozaaguiar\FilamentRouteStatistics\FilamentRouteStatisticsPlugin;
+use Oksurya\FilamentRouteStatistics\FilamentRouteStatisticsPlugin;
 
 public function panel(Panel $panel): Panel
 {

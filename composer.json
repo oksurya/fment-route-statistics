@@ -1,8 +1,8 @@
 {
-    "name": "amendozaaguiar/filament-route-statistics",
+    "name": "oksurya/fment-route-statistics",
     "description": "Filament route statictics viewer",
     "keywords": [
-        "amendozaaguiar",
+        "Oksurya",
         "filament",
         "laravel",
         "route",
@@ -20,13 +20,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Amendozaaguiar\\FilamentRouteStatistics\\": "src/"
+            "Oksurya\\FilamentRouteStatistics\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Anderson Mendoza Aguiar",
-            "email": "amendozaaguiar@outlook.com",
+            "name": "oksurya",
+            "email": "oksurya@outlook.com",
             "role": "Developer"
         }
     ],
@@ -36,7 +36,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Amendozaaguiar\\FilamentRouteStatistics\\FilamentRouteStatisticsServiceProvider"
+                "Oksurya\\FilamentRouteStatistics\\FilamentRouteStatisticsServiceProvider"
             ]
         }
     },

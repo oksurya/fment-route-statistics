@@ -1,6 +1,6 @@
 <?php
 
-namespace Amendozaaguiar\FilamentRouteStatistics\Widgets;
+namespace Oksurya\FilamentRouteStatistics\Widgets;
 
 use Bilfeldt\LaravelRouteStatistics\Models\RouteStatistic;
 use Filament\Support\Enums\IconPosition;
